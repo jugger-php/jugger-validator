@@ -1,0 +1,16 @@
+{
+    "name": "jugger-php/jugger-validator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "irpsv",
+            "email": "i.rpsv@live.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jugger\\validator\\": "src/",
+        }
+    },
+    "require": {}
+}
