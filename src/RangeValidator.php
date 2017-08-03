@@ -45,7 +45,7 @@ class RangeValidator extends BaseValidator
             $length = (float) $value;
         }
         else {
-            $length = strlen("{$value}");
+            $length = mb_strlen("{$value}");
         }
         return $length;
     }
