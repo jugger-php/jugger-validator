@@ -1,5 +1,6 @@
 {
     "name": "jugger-php/jugger-validator",
+    "description": "Validators package",
     "license": "MIT",
     "authors": [
         {
